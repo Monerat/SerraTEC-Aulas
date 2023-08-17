@@ -6,14 +6,24 @@
 <img loading="lazy" src="https://img.shields.io/badge/Linguagem-Portugol-blue"/>
 </p>
 
-:books: Repositorio para as aulas da Residência em TIC | Software
+# :books: Repositorio para as aulas da Residência em TIC | Software
 
-Topicos :
-<br>
-  :white_check_mark:  Lógica de Programação<br>
-  :black_square_button:  Banco de Dados<br>
-  :black_square_button:  Programação Orientada a Objetos<br>
-  :black_square_button:  FrontEnd Essencial<br>
-  :black_square_button:  Desenvolvimento API RestFull<br>
-  :black_square_button:  Desenvolvimento Web<br>
-  :black_square_button:  Desenvolvimento Aplicativo Mobile<br>
+## Topicos :
+
+- ✅ ``Lógica de Programação``
+- 🔲 ``Banco de Dados``
+- 🔲 ``Programação Orientada a Objetos``
+- 🔲 ``FrontEnd Essencial``
+- 🔲 ``Desenvolvimento API RestFull``
+- 🔲 ``Desenvolvimento Web``
+- 🔲 ``Desenvolvimento Aplicativo Mobile``
+
+## Técnicas e tecnologias utilizadas até o momento
+
+- ``Portugol``
+- ``Portugol Studio``
+- ``Comandos de Terminal``
+- ``Git``
+
+## 📁 Acesso aos projetos
+- [Lógica de Programação](https://github.com/Monerat/SerraTEC-Aulas/blob/master/Materias/Logica%20de%20Programa%C3%A7%C3%A3o/Projeto/PROJETOGRUPO1.por). (Grupo 1)
