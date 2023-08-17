@@ -8,7 +8,7 @@
 
 # :books: Repositorio para as aulas da Residência em TIC | Software
 
-## Topicos :
+## Topicos
 
 - ✅ ``Lógica de Programação``
 - 🔲 ``Banco de Dados``
@@ -26,4 +26,4 @@
 - ``Git``
 
 ## 📁 Acesso aos projetos
-- [Lógica de Programação](https://github.com/Monerat/SerraTEC-Aulas/blob/master/Materias/Logica%20de%20Programa%C3%A7%C3%A3o/Projeto/PROJETOGRUPO1.por). (Grupo 1)
+- [Lógica de Programação](/Matérias/Lógica%20de%20Programação/Projeto/PROJETOGRUPO1.por). (Grupo 1)
