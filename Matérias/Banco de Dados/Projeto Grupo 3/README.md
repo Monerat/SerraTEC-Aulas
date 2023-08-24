@@ -51,7 +51,7 @@ cada uma)
     - c. 1 SQL para construção de nota fisca
 
 ### DER - Diagrama Entidade Relacionamento
-![DER](/Projeto%20Grupo%203/Grupo%203%20-%20DER.png)
+![DER](Grupo%203%20-%20DER.png)
 
 ### Ordem de execução dos arquivos SQL
 1. Criar um Banco de dados
