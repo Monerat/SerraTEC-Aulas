@@ -1,7 +1,7 @@
 # Tarefa a entregar
 
 ## DER
-![DER](/DER%20Exercicio.png)
+![DER](DER%20Exercicio.png)
 ### Criar uma tabela de documentos com os seguintes campos
 - id sequencial
 - número do documento
