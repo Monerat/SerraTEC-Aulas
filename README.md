@@ -26,7 +26,7 @@
 - ``Git``
 - ``SQL - Structured Query Language``
 - ``Modelagem de banco de dados com base nas formas normais``
-- ``DDL – Data Definition Language``
+- ``DDL - Data Definition Language``
 - ``DML - Data Manipulation Language``
 - ``DQL - Data Query Language``
 - ``PostgreSQL``
