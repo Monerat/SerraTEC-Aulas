@@ -24,6 +24,13 @@
 - ``Portugol Studio``
 - ``Comandos de Terminal``
 - ``Git``
+- ``SQL - Structured Query Language``
+- ``Modelagem de banco de dados com base nas formas normais``
+- ``DDL – Data Definition Language``
+- ``DML - Data Manipulation Language``
+- ``DQL - Data Query Language``
+- ``PostgreSQL``
+
 
 ## 📁 Acesso aos projetos
 - [Lógica de Programação](/Matérias/Lógica%20de%20Programação/Projeto/PROJETOGRUPO1.por). (Grupo 1)
