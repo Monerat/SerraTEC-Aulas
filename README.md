@@ -11,7 +11,7 @@
 ## Topicos
 
 - ✅ ``Lógica de Programação``
-- 🔲 ``Banco de Dados``
+- ✅ ``Banco de Dados``
 - 🔲 ``Programação Orientada a Objetos``
 - 🔲 ``FrontEnd Essencial``
 - 🔲 ``Desenvolvimento API RestFull``
@@ -24,6 +24,14 @@
 - ``Portugol Studio``
 - ``Comandos de Terminal``
 - ``Git``
+- ``SQL - Structured Query Language``
+- ``Modelagem de banco de dados com base nas formas normais``
+- ``DDL - Data Definition Language``
+- ``DML - Data Manipulation Language``
+- ``DQL - Data Query Language``
+- ``PostgreSQL``
+
 
 ## 📁 Acesso aos projetos
 - [Lógica de Programação](/Matérias/Lógica%20de%20Programação/Projeto/PROJETOGRUPO1.por). (Grupo 1)
+- [Banco de Dados](/Matérias/Banco%20de%20Dados/Projeto%20Grupo%203). (Grupo 3)
