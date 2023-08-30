@@ -1,0 +1,17 @@
+Exercício:
+
+1) Crie uma classe Endereco com os seguintes atributos:
+
+Logradouro, Bairro, cidade, Número, CEP
+
+2) Crie uma classe Telefone com os seguintes atributos
+
+tipo (celular, fixo, trabalho, residencial, etc), numero
+
+3) Crie uma classe Pessoa com os seguintes atributos:
+
+Nome, CPF, tel_celular (tipo Telefone), tel_residencial (tipo Telefone), tel_trabalho (tipo Telefone), endereco_residencial (tipo Endereco), endereco_entrega (tipo Endereco), endereco_cobranca (tipo Endereco).
+
+4) Crie uma classe principal com o método main e crie 3 pessoas com dados diferentes e completos, alimentando cada dado pelo Scanner.
+
+5) Imprima os dados das 3 pessoas.
