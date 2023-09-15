@@ -21,9 +21,17 @@ public class exercicios {
 		//exercicio13();
 		//exercicio14();
 		//exercicio15();
+		teste(1);
 	}
 	
 	public static Scanner input = new Scanner(System.in);
+	
+	public static String teste(int opcao) {
+		ArrayList<Integer> opcao = new ArrayList<>();
+	
+		
+		return opcao;
+	}
 	
 	public static void exercicio1() {
 		int idadePessoa, primeiraFaixa, segundaFaixa, terceiraFaixa, quartaFaixa, quintaFaixa;

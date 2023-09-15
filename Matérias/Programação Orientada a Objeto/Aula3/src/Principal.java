@@ -1,9 +1,8 @@
-import java.util.Scanner;
-
 public class Principal {
 	
 	public static void main(String[] args) {
-		balanco();
+		//balanco();
+		conta();
 	}	
 	
 	public static void balanco() {
