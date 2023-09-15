@@ -1,0 +1,6 @@
+Exercício para praticar:
+
+Crie uma classe que permita informar o denominador e o numerador de uma fração e a partir desses dados, crie um método que permita somar a fração da classe com outra fração e outro método que permita multiplicar a fração da classe com outra, apresentando o resultado.
+
+Você deverá construir dois atributos: um numerador e um denominador.
+Não deve considerar a fração como um único número fracionado
