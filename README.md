@@ -4,6 +4,8 @@
 <img loading="lazy" src="http://img.shields.io/static/v1?label=STATUS&message=Cursando&color=GREEN&style=for-the-badge"/>
 <br>
 <img loading="lazy" src="https://img.shields.io/badge/Linguagem-Portugol-blue"/>
+<img loading="lazy" src="https://img.shields.io/badge/Linguagem-Java-yellow"/>
+<img loading="lazy" src="https://img.shields.io/badge/Linguagem-SQL-red"/>
 </p>
 
 # :books: Repositorio para as aulas da Residência em TIC | Software
