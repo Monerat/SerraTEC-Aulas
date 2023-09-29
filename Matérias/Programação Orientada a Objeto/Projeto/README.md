@@ -19,7 +19,7 @@ Criar um banco de dados que contenha:
 * Pedido
 
 ### DER - Diagrama Entidade Relacionamento
-![DER](/ProjetoPooGrupo3/DER%20BD.png)
+![DER](/Matérias/Programação%20Orientada%20a%20Objeto/Projeto/ProjetoPooGrupo3/DER%20BD.png)
 
 
 
@@ -48,4 +48,4 @@ Criar um banco de dados que contenha:
 5. Deve ser entregue o Diagrama de Classes (UML) ✔️
    
 ### UML - Linguagem de modelagem unificada
-![DER](/ProjetoPooGrupo3/UML.png)
+![DER](/Matérias/Programação%20Orientada%20a%20Objeto/Projeto/ProjetoPooGrupo3/UML.png)
