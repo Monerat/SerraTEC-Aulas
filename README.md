@@ -50,3 +50,4 @@
 - [Lógica de Programação](/Matérias/Lógica%20de%20Programação/Projeto/PROJETOGRUPO1.por). (Grupo 1)
 - [Banco de Dados](/Matérias/Banco%20de%20Dados/Projeto%20Grupo%203). (Grupo 3)
 - [Programação Orientada a Objetos](/Matérias/Programação%20Orientada%20a%20Objeto/Projeto/ProjetoPooGrupo3). (Grupo 3)
+- [Frontend Essencial](Matérias/Frontend%20Essencial/Projeto). (Grupo 5)
