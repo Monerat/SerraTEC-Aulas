@@ -1,0 +1,124 @@
+@font-face {
+    font-family: 'Inter';
+    src: url('./assets/fonts/inter-variablefont_slntwght-webfont.woff2') format('woff2'),
+         url('./assets/fonts/inter-variablefont_slntwght-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+body{
+    font-family: 'Inter';
+    background-color: aquamarine;
+}
+
+#primeiroParagrafo{
+    border: 10px solid blue;
+    color: #050227;
+    padding: 20px;
+    margin: 50px;
+    text-align: center;
+    background-color: #67acfa;
+}
+
+#primeiraDiv{
+    background-color: #000000;
+    height: 100px;
+    width: 100px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+#segundaDiv{
+    background-color: #ff0000;
+    height: 100px;
+    width: 100px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+#terceiraDiv img{
+    width: 100px;
+    height: 100px;
+}
+
+#imgCS2{
+    float: left;
+    width: 550px;
+    height: 350px;
+}
+
+#paragrafoClear{
+    clear: left;
+}
+
+.pai{
+    background-color: #1900ff;
+    padding: 5px;
+    margin: 10px;
+    position: relative;
+    height: 50vh;
+}
+.filhoUm{
+    background-color: #0fc4f1;
+    position: sticky;
+    top: 0;
+    
+}
+.filhoDois{
+    background-color: #0ff166;
+}
+.filhoTres{
+    background-color: #cb0ff1;
+}
+
+#container{
+    color: #cb0ff1;
+}
+span.a{
+    display: inline;
+    height: 100px;
+    width: 100px;
+    padding: 5px;
+    border: 1px solid black;
+    background-color: #0ff166;
+}
+
+span.b{
+    display: block;
+    height: 50px;
+    width: 50px;
+    padding: 5px;
+    border: 1px solid black;
+    background-color: #0ff166;
+}
+
+span.c{
+    display: inline-block;
+    height: 50px;
+    width: 50px;
+    padding: 5px;
+    border: 1px solid black;
+    background-color: #0ff166;
+}
+
+.nav{
+    background-color: #000000;
+    color: #ffffff;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+    position: fixed;
+    top: 0;
+    z-index: 1;
+    width: 100vw;
+}
+
+.nav li{
+    display: inline-block;
+    font-size: 20px;
+    padding: 10px;
+}
+
+a[target]{
+    background-color: yellow;
+}

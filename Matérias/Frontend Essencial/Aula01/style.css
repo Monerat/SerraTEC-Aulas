@@ -1,0 +1,35 @@
+/* Comentário css*/
+@font-face {
+    font-family: 'Inter';
+    src: url('./assets/fonts/inter-variablefont_slntwght-webfont.woff2') format('woff2'),
+         url('./assets/fonts/inter-variablefont_slntwght-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+
+h2 {
+    color:  #3e60c1;
+    background-color:#3ec19f;
+    text-align: center;
+    
+    font-family: 'Inter';
+}
+
+.texto{
+    color:rgb(160, 160, 160);
+}
+
+h1 {
+    font-family: 'Inter';
+    line-height: 20px;
+    letter-spacing: 5px;
+    text-indent: 30px;
+}
+
+body {
+    color: whitesmoke;
+    background-color: black;
+    font-family: 'Inter', sans-serif;
+    font-size: 16px;
+}

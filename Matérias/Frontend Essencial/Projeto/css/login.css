@@ -1,0 +1,179 @@
+.main-login {
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+}
+
+.left-login {
+    width: 54vh;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.left-login > h1 {
+    color: var(--azulMenu);
+    font-size: 5vh;
+}
+
+.right-login {
+    width: 50vh;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.left-login-image{
+    width: 55vh;
+
+}
+
+.card-login {
+    width: 60%;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    padding: 30px 35px;
+    background-color:var(--azulMenu);
+    border-radius: 20px;
+    box-shadow: 0px 10px 40px var(--preto);
+}
+
+.card-login > h1 {
+    color: var(--preto);
+    margin: 0;
+}
+
+.card-login a:link {
+    color: var(--preto);
+}
+  
+.card-login a:visited {
+    color: var(--preto);
+}
+  
+.card-login a:hover {
+    color: var(--verdeEscuro);
+}
+
+.textfield {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin: 10px 0;
+}
+
+.textfield > input{
+    width: 100%;
+    border: none;
+    border-radius: 10px;
+    padding: 15px;
+    background-color:var(--verdeAlien);
+    font-size: 12pt;
+    outline: none;
+    box-sizing: border-box;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    box-shadow: 0px 10px 40px -12px var(--verdeLimao);
+}
+
+.textfield > label {
+    color: var(--preto);
+    margin-bottom: 10px;
+    font-size: 14pt;
+}
+
+.textfield > input::placeholder {
+    color: var(--pretoOpacidade);
+}
+
+.btn-login {
+    width: 100%;
+    padding: 16px 0px;
+    margin: 25px;
+    border: none;
+    border-radius: 8px;
+    outline: none;
+    text-transform: uppercase;
+    font-weight: 800;
+    letter-spacing: 3px;
+    color: var(--branco);
+    background-color: var(--preto);
+    cursor: pointer;
+    box-shadow: 0px 10px 40px -12px var(--preto);
+    font-family: rick;
+}
+
+.btn-login:hover {
+    color: var(--branco);
+    background-color: var(--verdeEscuro);
+}
+
+footer a {
+    color: var(--branco);
+    padding-left: 10px;
+    text-align: center;
+}
+
+footer{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    align-items: center;
+}
+.fixarRodape {
+    text-align: center;
+    color: var(--branco);
+}
+
+.fixarRodape a:link {
+    text-decoration: none;
+    color: var(--verdeMata);
+  }
+  
+.fixarRodape a:visited {
+    text-decoration: none;
+    color: var(--verdeMata);
+}
+  
+.fixarRodape a:hover {
+    text-decoration:none;
+    color: var(--verdeAlien);
+}
+  
+.fixarRodape a:active {
+    text-decoration: none;
+}
+
+@media only screen and (max-width: 950px){
+    .card-login{
+        width: 85%;
+    }
+}
+
+@media only screen and (max-width: 600px){
+    .main-login{
+        flex-direction: column;
+    }
+    .left-login > h1{
+        display: none;
+    }
+    .left-login{
+        width: 100%;
+        height: auto;
+    }
+    .right-login{
+        width: 100%;
+        height: auto;
+    }
+    .left-login-image{
+        width: 50vh;
+    }
+    .card-login{
+        width: 90%;
+    }   
+}

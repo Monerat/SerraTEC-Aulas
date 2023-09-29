@@ -1,0 +1,130 @@
+@font-face {
+    font-family: 'Inter';
+    src: url('./assets/fonts/inter-variablefont_slntwght-webfont.woff2') format('woff2'),
+         url('./assets/fonts/inter-variablefont_slntwght-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+body{
+    font-family: 'Inter';
+    background: #05535A;
+    background: radial-gradient(at left top, #05535A, #010933);
+    
+}
+
+.header{
+    background-color: #000F18;
+    color: #ffffff;
+    margin: 0;
+    padding: 0;
+    top: 0;
+    margin-bottom: 10px;
+    z-index: 1;
+    width: 98,5vw;
+    height: 75,31px;
+    border-radius: 5px;
+}
+
+.grid-container-header{
+    display: grid;
+    gap: 10px;
+    grid-template-columns: 1fr 8fr;
+}
+
+.div-logo{
+    padding: 14px;
+}
+
+.header li{
+    text-align: center;
+    display: inline-block;
+    font-size: 20px;
+    padding: 10px;
+}
+
+.header img{
+    width: 176px;
+    height: 44px;
+    display: block;
+}
+
+#logo-steam-header{
+    text-align: center;
+}
+
+.grid-container{
+    display: grid;
+    gap: 10px;
+    grid-template-columns: 1fr 1fr;
+}
+
+.box {
+    background-color: #000F18;
+    color: #fff;
+    border-radius: 5px;
+    padding: 20px;
+    font-size: 100%;
+}
+
+.esquerda{
+    grid-column: 1;
+    grid-row:1;
+}
+
+.direita{
+    grid-column: 2;
+    grid-row:1;
+}
+
+.direita img{
+    height: 250px;
+    width: 400px;
+    float: left;
+    margin-right: 15px;
+}
+
+.idFooter{
+    background-color: #000F18;
+    color: #ffffff;
+    text-align: left;
+    margin: 0;
+    padding: 0;
+    margin-top: 10px;
+    width: 98,5vw;
+    height: 8vw;
+    border-radius: 5px;
+}
+.valve{
+    width: 88px;
+    height: 25px;
+    margin-left: 2px;
+}
+.steamlogo{
+    float: right;
+    padding: 10px;
+    width: 92px;
+    height: 26px;
+}
+.idFooter div{
+    padding: 2px;
+    margin-left: 5px;
+}
+a:link {
+    text-decoration: none;
+    color: #7C8EA3;
+  }
+  
+a:visited {
+    text-decoration: none;
+    color: #7C8EA3;
+}
+  
+a:hover {
+    text-decoration:none;
+    color: #b2bdca;
+}
+  
+a:active {
+    text-decoration: none;
+}

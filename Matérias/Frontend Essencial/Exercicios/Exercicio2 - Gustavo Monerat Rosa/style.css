@@ -1,0 +1,222 @@
+@font-face {
+    font-family: 'Inter';
+    src: url('./assets/fonts/inter-variablefont_slntwght-webfont.woff2') format('woff2'),
+         url('./assets/fonts/inter-variablefont_slntwght-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+body{
+    font-family: 'Inter';
+    background: #05535A;
+    background: radial-gradient(at left top, #05535A, #010933);
+}
+
+/* Questão 1 */
+
+.questao-1-div{
+    background-color: #000F18;
+    width: 99.5%;
+    height: 5%;
+    border-radius: 10px;
+    display: block;
+    margin: 5px;
+    padding: 15px;
+}
+.questao-1-ul{
+    display:flex;
+    justify-content: space-evenly;
+    align-items:center;
+}
+.questao-1-li{
+    display: inline-block;
+}
+
+.questao-1-li a {
+    text-decoration: none;
+    color: #ffffff;
+}
+
+.questao-1-li a:active {
+    text-decoration: none;
+    color: #ffffff;
+}
+
+.questao-1-li a:visited {
+    text-decoration: none;
+    color: #e21515;
+}
+
+.questao-1-li a:hover {
+    text-decoration:none;
+    color: #b2bdca;
+}
+
+
+
+/* Questão 2 */
+.questao-2-div{
+    background-color: #000F18;
+    width: 99.5%;
+    height: 25%;
+    border-radius: 10px;
+    display: block;
+    margin: 5px;
+}
+
+.questao-2-div h1{
+    padding: 5px;
+    color: #b2bdca;
+    text-align: center;
+}
+.questao-2-div h2{
+    padding: 5px;
+    color: #b2bdca;
+    text-align: center;
+}
+.questao-2-div h3{
+    padding: 5px;
+    color: #b2bdca;
+    text-align: center;
+}
+.questao-2-div h4{
+    padding: 5px;
+    color: #b2bdca;
+    text-align: center;
+}
+
+.questao-2-div h1::before{
+    background-image: url(./assets/images/flamengo.png);
+    background-size: 50px 50px;
+    display: inline-block;
+    width: 50px;
+    height: 50px;
+    content: "";
+    padding: 15px;
+}
+.questao-2-div h2::before{
+    background-image: url(./assets/images/landim.png);
+    background-size: 50px 50px;
+    display: inline-block;
+    width: 50px;
+    height: 50px;
+    content: "";
+}
+.questao-2-div h3::before{
+    background-image: url(./assets/images/braz.png);
+    background-size: 60px 45px;
+    display: inline-block;
+    width: 60px;
+    height: 45px;
+    content: "";
+}
+.questao-2-div h4::before{
+    background-image: url(./assets/images/sampaoli.png);
+    background-size: 50px 50px;
+    display: inline-block;
+    width: 50px;
+    height: 50px;
+    content: "";
+}
+
+/* Questão 3 */
+
+.questao-3-div{
+    background-color: #000F18;
+    width: 99.5%;
+    height: 15%;
+    border-radius: 10px;
+    display: block;
+    margin: 5px;
+    padding: 15px;
+}
+.questao-3-div p{
+   color: #ffffff;
+}
+.questao-3-div p:nth-child(odd){
+    background-color: #e21515;
+}
+
+/* Questão 4 */
+
+.questao-4-div{
+    background-color: #000F18;
+    width: 99.5%;
+    height: 5%;
+    border-radius: 10px;
+    display: block;
+    margin: 5px;
+    text-align: center;
+    padding: 15px;
+}
+
+.questao-4-div button:disabled{
+    background-color: #f51313;
+    color: #000F18;
+}
+
+/*Questão 5*/
+
+.questao-5-div {
+    background-color: #000F18;
+    width: 99.5%;
+    height: 50%;
+    border-radius: 10px;
+    display: block;
+    margin: 5px;
+    text-align: center;
+    padding: 15px;
+}
+
+.questao-5-div p {
+    color: white;
+    text-align: center;
+}
+
+.questao-5-div [meuNomeDeAtribudo~="marcado"]  {
+    background-color: red;
+}
+
+/* Questao 6 */
+.questao-6-div{
+    background-color: #000F18;
+    width: 99.5%;
+    height: 5%;
+    border-radius: 10px;
+    display: block;
+    margin: 5px;
+    padding: 15px;
+}
+
+.questao-6-div ul{
+    color: white;
+    text-align: left;
+}
+
+.questao-6-div li{
+    color: white;
+}
+
+.questao-6-div li>h5{
+    background-color: #e21515;
+    text-align: center;
+}
+
+/* Questão 7 */
+.questao-7-div{
+    background-color: #000F18;
+    width: 99.5%;
+    height: 5%;
+    border-radius: 10px;
+    display: block;
+    margin: 5px; 
+    padding: 15px;
+}
+
+.questao-7-div form{
+    color: #ffffff;
+}
+
+.form-group>input:focus{
+   background-color: #f51313;
+}

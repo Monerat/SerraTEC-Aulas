@@ -1,0 +1,141 @@
+@import url('https://fonts.googleapis.com/css2?family=Croissant+One&family=Inter&display=swap');
+
+@font-face {
+    font-family: 'Inter';
+    src: url('./assets/fonts/inter-variablefont_slntwght-webfont.woff2') format('woff2'),
+         url('./assets/fonts/inter-variablefont_slntwght-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+body{
+    font-family: 'Inter', sans-serif;
+    margin: 0;
+    padding: 20px;
+    background-color: beige;
+}
+.destaque ~ p{
+    color:blue;
+}
+
+a:link {
+    text-decoration: none;
+    color: #27814a;
+  }
+  
+a:visited {
+    text-decoration: none;
+    color: #27814a;
+}
+  
+a:hover {
+    text-decoration:none;
+    color: #69c28b;
+}
+  
+a:active {
+    text-decoration: none;
+}
+
+.pai{
+    width: 30vw;
+    height: 30vw;
+    background-color: cadetblue;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.filha {
+    width: 50px;
+    height: 50px;
+}
+
+.um{
+    background-color: aquamarine;
+}
+.dois{
+    background-color: rgb(255, 127, 244);
+}
+.tres{
+    background-color: rgb(146, 127, 255);
+}
+.quatro{
+    background-color: rgb(224, 121, 103);
+}
+
+.paragrafo-um::first-letter{
+    color:red;
+    font-size: 30px;
+}
+
+.paragrafo-um::first-line{
+    background-color: yellow;
+    font-family: 'Croissant One', cursive;
+}
+
+h2::before{
+    background-image: url(https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Flamengo_braz_logo.svg/400px-Flamengo_braz_logo.svg.png);
+    background-size: 50px 50px;
+    display: inline-block;
+    width: 50px;
+    height: 50px;
+    content: "";
+}
+h2:hover::after{
+    content: ":";
+    
+}
+
+.exBorder {
+    width: 200px;
+    height: 200px;
+    background-color: blueviolet;
+    border-radius: 15px;
+    box-shadow: -5px -5px black;
+    opacity: 0.7;
+}
+
+h1{
+    color: rgb(119, 75, 18);
+    font-size: 36px;
+    margin-bottom: 20px;
+}
+
+p{
+    color: rgb(58, 36, 8);
+    font-size: 18px;
+}
+
+@media screen and (max-width: 768px){
+    body {
+        background-color: rgb(0, 0, 0);
+    }
+
+    h1{
+        color: rgb(255, 0, 0);
+        font-size: 36px;
+    }
+    
+    p{
+        color: rgb(255, 0, 0);
+        font-size: 18px;
+    }
+}
+
+@media screen and (max-width: 500px){
+    body {
+        background-color: rgb(13, 88, 250);
+    }
+
+    h1{
+        color: rgb(255, 0, 0);
+        font-size: 36px;
+    }
+    
+    p{
+        color: rgb(255, 0, 0);
+        font-size: 18px;
+    }
+}
