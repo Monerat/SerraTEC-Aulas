@@ -3,9 +3,12 @@
 <p align="left">
 <img loading="lazy" src="http://img.shields.io/static/v1?label=STATUS&message=Cursando&color=GREEN&style=for-the-badge"/>
 <br>
-<img loading="lazy" src="https://img.shields.io/badge/Linguagem-Portugol-blue"/>
-<img loading="lazy" src="https://img.shields.io/badge/Linguagem-Java-yellow"/>
-<img loading="lazy" src="https://img.shields.io/badge/Linguagem-SQL-red"/>
+<img loading="lazy" src="https://img.shields.io/badge/Linguagem-Portugol-pink"/>
+<img loading="lazy" src="https://img.shields.io/badge/Linguagem-Java-purple"/>
+<img loading="lazy" src="https://img.shields.io/badge/Linguagem-SQL-green"/>
+<img loading="lazy" src="https://img.shields.io/badge/Linguagem-HTML-red"/>
+<img loading="lazy" src="https://img.shields.io/badge/Linguagem-CSS-blue"/>
+<img loading="lazy" src="https://img.shields.io/badge/Linguagem-Javascript-yellow"/>
 </p>
 
 # :books: Repositorio para as aulas da Residência em TIC | Software
@@ -15,7 +18,7 @@
 - ✅ ``Lógica de Programação``
 - ✅ ``Banco de Dados``
 - ✅ ``Programação Orientada a Objetos``
-- 🔲 ``FrontEnd Essencial``
+- ✅ ``FrontEnd Essencial``
 - 🔲 ``Desenvolvimento API RestFull``
 - 🔲 ``Desenvolvimento Web``
 - 🔲 ``Desenvolvimento Aplicativo Mobile``
@@ -37,7 +40,11 @@
 - ``JDBC - Java™ EE Database Connectivity - Conexão com o Postgres``
 - ``Classes - Encapsulamento, Herança, Polimorfismo e Abstração``
 - ``UML - Linguagem de modelagem unificada``
-
+- ``Vscode - Visual Studio Code``
+- ``HTML - Linguagem de Marcação de HiperTexto``
+- ``CSS - Cascading Style Sheets ou Folhas de Estilo em Cascata``
+- ``Javascript``
+- ``Bootstrap``
 
 ## 📁 Acesso aos projetos
 - [Lógica de Programação](/Matérias/Lógica%20de%20Programação/Projeto/PROJETOGRUPO1.por). (Grupo 1)
