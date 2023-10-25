@@ -19,7 +19,7 @@
 - ✅ ``Banco de Dados``
 - ✅ ``Programação Orientada a Objetos``
 - ✅ ``FrontEnd Essencial``
-- 🔲 ``Desenvolvimento API RestFull``
+- ✅ ``Desenvolvimento API RestFull``
 - 🔲 ``Desenvolvimento Web``
 - 🔲 ``Desenvolvimento Aplicativo Mobile``
 
@@ -45,9 +45,17 @@
 - ``CSS - Cascading Style Sheets ou Folhas de Estilo em Cascata``
 - ``Javascript``
 - ``Bootstrap``
+- ``API RESTful - Interface de Programação de Aplicações - Representational State Transfer``
+- ``Springboot``
+- ``Maven``
+- ``CRUD - Create, Read, Update e Delete``
+- ``Comunicação API + PostgreSQL``
+- ``Swagger``
+- ``Autenticação e Autorização``
 
 ## 📁 Acesso aos projetos
 - [Lógica de Programação](/Matérias/Lógica%20de%20Programação/Projeto/PROJETOGRUPO1.por). (Grupo 1)
 - [Banco de Dados](/Matérias/Banco%20de%20Dados/Projeto%20Grupo%203). (Grupo 3)
 - [Programação Orientada a Objetos](/Matérias/Programação%20Orientada%20a%20Objeto/Projeto/ProjetoPooGrupo3). (Grupo 3)
 - [Frontend Essencial](Matérias/Frontend%20Essencial/Projeto). (Grupo 5)
+- [API RESTful](Matérias/API%20Restful/Projeto/Serratec-Projeto-APIRestfull-Grupo3). (Grupo 3)
