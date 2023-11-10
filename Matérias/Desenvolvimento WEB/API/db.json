@@ -1,0 +1,14 @@
+{
+  "posts": [
+    {
+      "autor": "Gustavo",
+      "comentario": "Estou tentando focar na aula, mas está dificil",
+      "id": 1
+    },
+    {
+      "autor": "Gustavo",
+      "comentario": "Teste",
+      "id": 2
+    }
+  ]
+}
