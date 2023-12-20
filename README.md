@@ -80,3 +80,4 @@
 - [API RESTful](Matérias/API%20Restful/Projeto/Serratec-Projeto-APIRestfull-Grupo3). (Grupo 3)
 - [React](Matérias/Desenvolvimento%20WEB/Serratec-Projeto-DesenvolvimentoWeb-Grupo1). (Grupo 1)
 - [React-Native](Matérias/Desenvolvimento%20Mobile/Projeto). (Grupo 11)
+- [Projeto Final](https://github.com/Monerat/InfluenceConnect).(InfluenceConnect)
