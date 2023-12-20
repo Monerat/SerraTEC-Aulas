@@ -1,7 +1,7 @@
 ![Capa Titulo](/assets/images/00006-267240829.png)
 <h1 align="center"> SerraTEC-Aulas </h1>
 <p align="left">
-  <img loading="lazy" src="http://img.shields.io/static/v1?label=STATUS&message=Cursando&color=GREEN&style=for-the-badge"/>
+  <img loading="lazy" src="http://img.shields.io/static/v1?label=STATUS&message=Concluido&color=GREEN&style=for-the-badge"/>
 </p>
 <p align="left">
   <img loading="lazy" src="https://img.shields.io/badge/Linguagem-Portugol-pink"/>
@@ -10,9 +10,11 @@
   <img loading="lazy" src="https://img.shields.io/badge/Linguagem-HTML-red"/>
   <img loading="lazy" src="https://img.shields.io/badge/Linguagem-CSS-orange"/>
   <img loading="lazy" src="https://img.shields.io/badge/Linguagem-Javascript-yellow"/>
+  <img loading="lazy" src="https://img.shields.io/badge/Linguagem-Typescript-blue"/>
 </p>
 <p align="left">
   <img loading="lazy" src="https://img.shields.io/badge/Framework-React-blue"/>
+  <img loading="lazy" src="https://img.shields.io/badge/Framework-React_Native-blue"/>
 </p>
 
 # :books: Repositorio para as aulas da Residência em TIC | Software
@@ -25,7 +27,7 @@
 - ✅ ``FrontEnd Essencial``
 - ✅ ``Desenvolvimento API RestFull``
 - ✅ ``Desenvolvimento Web``
-- 🔲 ``Desenvolvimento Aplicativo Mobile``
+- ✅ ``Desenvolvimento Aplicativo Mobile``
 
 ## Técnicas e tecnologias utilizadas até o momento
 
@@ -64,8 +66,11 @@
 - ``React Bootstrap``
 - ``React Router - Rotas``
 - ``Axios - Consumo de API's``
-- ``Context - Gerencidor de estados``
-
+- ``Context - Gerenciador de estados``
+- ``React - Native``
+- ``Expo``
+- ``Typescript``
+- ``AsyncStorage``
 
 ## 📁 Acesso aos projetos
 - [Lógica de Programação](/Matérias/Lógica%20de%20Programação/Projeto/PROJETOGRUPO1.por). (Grupo 1)
@@ -74,3 +79,4 @@
 - [Frontend Essencial](Matérias/Frontend%20Essencial/Projeto). (Grupo 5)
 - [API RESTful](Matérias/API%20Restful/Projeto/Serratec-Projeto-APIRestfull-Grupo3). (Grupo 3)
 - [React](Matérias/Desenvolvimento%20WEB/Serratec-Projeto-DesenvolvimentoWeb-Grupo1). (Grupo 1)
+- [React-Native](Matérias/Desenvolvimento%20Mobile/Projeto). (Grupo 11)
